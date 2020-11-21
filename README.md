@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Vijay Jaisankar, a CS sophomore @IIITB. I _love_ to learn new things, play a round of tennis, or talk about anything 😄 
+I'm Vijay Jaisankar, a CS sophomore @IIITB. I _love_ to learn new things, play a round of tennis, or talk about anything 😄   
+
 In my free time, I love blogging[https://hundred-words-or-less.blogspot.com/], reading non-fiction books and eating 😄
 
 ### I use the following tools,technologies and languages:
