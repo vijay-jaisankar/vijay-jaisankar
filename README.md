@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Vijay Jaisankar, a CS sophomore @IIITB. I _love_ to learn new things, play a round of tennis, or talk about anything 😄 
+In my free time, I love blogging[https://hundred-words-or-less.blogspot.com/], reading non-fiction books and eating 😄
+
+### I use the following tools,technologies and languages:
+  - Python
+  - C++
+  - C
+  - Java
+  - Turicreate
+  - Pandas
+  - Visual Studio Code
+  
+  
+### I'm currently learning:
+  - Bioinformatics
+  - Flask
+  - Django
+  - Android development
+  
+  
+### How to reach me:
+  - Linkedin[https://www.linkedin.com/in/vijay-jaisankar/]
+  - Email(vijayjaisankar.vj@gmail.com)
+  
+  
+
