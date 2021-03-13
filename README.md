@@ -33,7 +33,7 @@ In my free time, I love blogging[https://hundred-words-or-less.blogspot.com/], r
   - Bioinformatics
   - Flask
   - Django
-  - Android development
+  - MATLAB
   
   
 ### How to reach me:
