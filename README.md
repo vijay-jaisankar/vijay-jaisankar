@@ -20,7 +20,10 @@ I'm Vijay Jaisankar, a CS sophomore @IIITB. I _love_ to learn new things, play a
 In my free time, I love blogging[https://hundred-words-or-less.blogspot.com/], reading non-fiction books and eating 😄
 
 
-![Visitor Count](https://profile-counter.glitch.me/{github.com/vijay-jaisankar}/count.svg)
+<p align="center"> 
+  Visitors:<br>
+  <img src="https://profile-counter.glitch.me/vijay-jaisankar/count.svg" />
+</p>
 
 
 ### I use the following tools,technologies and languages:
