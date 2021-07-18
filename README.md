@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Vijay Jaisankar, a CS sophomore @IIITB. I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
+
+In my free time, I love blogging - [Hundred Words or Less](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
+
+## Current Roles  
+- Core Member and Developer, @Zense
+- Developer at E-Health Research Cell, IIITB
+- Organiser, TEDxIIITBangalore
+- Editor, 8BIT Magazine
+- Member, Debate Society @ IIITB
 
 <!--
 **vijay-jaisankar/vijay-jaisankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +26,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Vijay Jaisankar, a CS sophomore @IIITB. I _love_ to learn new things, play a round of tennis, or talk about anything 😄   
+## About me
 
-In my free time, I love blogging[https://hundred-words-or-less.blogspot.com/], reading non-fiction books and eating 😄
+- 🔭 I’m currently working on Spring Boot, node.js, MySQL, Angular, Pandas, and Scikit-Learn.
+- 🌱 I’m currently learning Angular, Audio Signal Processing, Multivariable Calculus, Statistics, and Machine Learning.
+- 👯 I’m looking to collaborate on APIs, Open Source, and Audio projects.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) 
+- 😄 Pronouns: he/him
+
 
 
 <p align="center"> 
@@ -25,27 +41,6 @@ In my free time, I love blogging[https://hundred-words-or-less.blogspot.com/], r
   <img src="https://profile-counter.glitch.me/vijay-jaisankar/count.svg" />
 </p>
 
-
-### I use the following tools,technologies and languages:
-  - Python
-  - C++
-  - C
-  - Java
-  - Turicreate
-  - Pandas
-  - Visual Studio Code
-  
-  
-### I'm currently learning:
-  - Bioinformatics
-  - Flask
-  - Django
-  - MATLAB
-  
-  
-### How to reach me:
-  - Linkedin[https://www.linkedin.com/in/vijay-jaisankar/]
-  - Email(vijayjaisankar.vj@gmail.com)
   
   
 
