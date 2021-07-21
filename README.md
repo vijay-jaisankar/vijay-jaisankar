@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vijay Jaisankar, a CS sophomore @IIITB. I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
+I'm Vijay Jaisankar, a CS student @IIITB. I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
 
 In my free time, I love blogging - [Hundred Words or Less](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
 
