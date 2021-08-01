@@ -5,8 +5,8 @@ I'm Vijay Jaisankar, a CS student @IIITB. I _love_ to learn new things, play a r
 In my free time, I love blogging - [Hundred Words or Less](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
 
 ## Current Roles  
-- Core Member and Developer, @Zense
-- Developer at E-Health Research Cell, IIITB
+- Core Member and Developer, [Zense](https://zense.co.in/)
+- Developer at [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
 - Organiser, TEDxIIITBangalore
 - Editor, 8BIT Magazine
 - Member, Debate Society @ IIITB
