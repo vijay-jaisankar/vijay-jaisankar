@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Spring Boot, node.js, MySQL, Angular, Pandas, and Scikit-Learn.
 - 🌱 I’m currently learning Angular, Audio Signal Processing, Multivariable Calculus, Statistics, and Machine Learning.
 - 👯 I’m looking to collaborate on APIs, Open Source, and Audio projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) [Polywork](https://www.polywork.com/vijayjaisankar)
 - 😄 Pronouns: he/him
 
 
