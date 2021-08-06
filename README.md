@@ -6,7 +6,7 @@ In my free time, I love blogging - [Hundred Words or Less](https://hundred-words
 
 ## Current Roles  
 - Core Member and Developer, [Zense](https://zense.co.in/)
-- Developer at [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
+- Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
 - Organiser, TEDxIIITBangalore
 - Editor, 8BIT Magazine
 - Member, Debate Society @ IIITB
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔭 I’m currently working on Spring Boot, node.js, MySQL, Angular, Pandas, and Scikit-Learn.
+- 🔭 I’m currently working on `Spring Boot`, `node.js`, `MySQL`, `Angular`, `Pandas`, and `Scikit-Learn`.
 - 🌱 I’m currently learning Angular, Audio Signal Processing, Multivariable Calculus, Statistics, and Machine Learning.
-- 👯 I’m looking to collaborate on APIs, Open Source, and Audio projects.
+- 👯 I’m looking to collaborate on Machine Learning Projects, APIs, Open Source, and Audio projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) [Polywork](https://www.polywork.com/vijayjaisankar)
 - 😄 Pronouns: he/him
 
