@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) [Polywork](https://www.polywork.com/vijayjaisankar)
 - 😄 Pronouns: he/him
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-jaisankar&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-jaisankar&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
