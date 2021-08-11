@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on `Spring Boot`, `node.js`, `MySQL`, `Angular`, `Pandas`, and `Scikit-Learn`.
 - 🌱 I’m currently learning Angular, Audio Signal Processing, Multivariable Calculus, Statistics, and Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects, APIs, Open Source, and Audio projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) [Polywork](https://www.polywork.com/vijayjaisankar)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) [Polywork](https://www.polywork.com/vijayjaisankar) [Email](mailto:vijayjaisankar.vj@gmail.com)
 - 😄 Pronouns: he/him
+- ⚡ Fun fact: If I start, I can't stop talking 😄
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-jaisankar&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
