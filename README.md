@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔭 I’m currently working on `Spring Boot`, `node.js`, `MySQL`, `Angular`, `Pandas`, and `Scikit-Learn`.
+- 🔭 I’m currently working on `Spring Boot`, `node.js`, `MySQL`, `Angular`, `Pandas`, `Pactum`, and `Scikit-Learn`.
 - 🌱 I’m currently learning Angular, Audio Signal Processing, API Testing, Statistics, and Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects, APIs, Open Source, and Audio projects.
 - 📫 How to reach me: 
