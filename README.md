@@ -51,6 +51,9 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/vijay-jaisankar/count.svg" />
 </p>
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Vijay73893478)](https://github.com/gazf/github-readme-twitter)
+
+
   
   
 
