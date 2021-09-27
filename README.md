@@ -45,13 +45,15 @@ Here are some ideas to get you started:
 
 
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Vijay73893478)](https://github.com/gazf/github-readme-twitter)
+
 
 <p align="center"> 
   Visitors(from Apr 12, 2021):<br>
   <img src="https://profile-counter.glitch.me/vijay-jaisankar/count.svg" />
 </p>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Vijay73893478)](https://github.com/gazf/github-readme-twitter)
+
 
 
   
