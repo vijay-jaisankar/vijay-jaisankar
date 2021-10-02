@@ -47,6 +47,9 @@ Here are some ideas to get you started:
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Vijay73893478)](https://github.com/gazf/github-readme-twitter)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijay-jaisankar)](https://git.io/streak-stats)
+
+
 
 <p align="center"> 
   Visitors(from Apr 12, 2021):<br>
