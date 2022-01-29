@@ -7,6 +7,7 @@ In my free time, I love blogging - [Hundred Words or Less](https://hundred-words
 ## Current Roles  
 - Core Member and Developer, [Zense](https://zense.co.in/)
 - Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
+- Project Intern, [Web Science Lab, IIITB](https://github.com/WSL-IIITB)
 - Organiser, [TEDxIIITBangalore](https://linktr.ee/tedxiiitbangalore2021)
 - Editor, [8BIT Magazine](https://8bit.pythonanywhere.com/)
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
