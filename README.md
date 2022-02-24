@@ -12,6 +12,7 @@ In my free time, I love blogging - [Hundred Words or Less](https://hundred-words
 - Editor, [8BIT Magazine](https://8bit.pythonanywhere.com/)
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
 - Member, [Debate Society @ IIITB](https://www.iiitb.ac.in/committees-clubs/clubs/debate-club)
+- Mentor, [Major League Hacking](https://mlh.io/)
 
 
 <!--
@@ -31,8 +32,8 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔭 I’m currently working on `Spring Boot`, `node.js`, `MySQL`, `Angular`, `Pandas`, `Pactum`, and `Scikit-Learn`.
-- 🌱 I’m currently learning Angular, Audio Signal Processing, API Testing, Statistics, and Machine Learning.
+- 🔭 I’m currently working on `WebGL`, `Librosa`, `PyTorch`, `Pandas`, `Pactum`, and `Scikit-Learn`.
+- 🌱 I’m currently learning Computer Graphics, Audio Signal Processing, API Testing, Statistics, and Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects, APIs, Open Source, and Audio projects.
 - 📫 How to reach me: 
   - [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) 
