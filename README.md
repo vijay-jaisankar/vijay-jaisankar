@@ -6,6 +6,7 @@ In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/),
 
 ## Current Roles  
 - Core Member and Developer, [Zense](https://zense.co.in/)
+- Student Campus Ambassador, [Google](https://careers.google.com/students/)
 - Project Intern, [Web Science Lab, IIITB](https://github.com/WSL-IIITB)
 - Member, [Debate Society @ IIITB](https://www.iiitb.ac.in/committees-clubs/clubs/debate-club)
 - Mentor, [Major League Hacking](https://mlh.io/)
