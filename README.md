@@ -10,6 +10,7 @@ In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/),
 - Project Intern, [Web Science Lab, IIITB](https://github.com/WSL-IIITB)
 - Member, [Debate Society @ IIITB](https://www.iiitb.ac.in/committees-clubs/clubs/debate-club)
 - Mentor, [Major League Hacking](https://mlh.io/)
+- Member, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
 
 ## Former Roles
 - Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
