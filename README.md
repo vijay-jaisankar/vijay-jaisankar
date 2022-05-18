@@ -5,18 +5,20 @@ I'm Vijay Jaisankar, a CS student @IIITB. I _love_ to learn new things, play a r
 In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
 
 ## Current Roles  
-- Core Member and Developer, [Zense](https://zense.co.in/)
+- Developer, [Zense](https://zense.co.in/)
 - Student Campus Ambassador, [Google](https://careers.google.com/students/)
-- Project Intern, [Web Science Lab, IIITB](https://github.com/WSL-IIITB)
-- Member, [Debate Society @ IIITB](https://www.iiitb.ac.in/committees-clubs/clubs/debate-club)
+- Machine Learning Intern, [ISIP](https://iiitb.ac.in)
 - Mentor, [Major League Hacking](https://mlh.io/)
+- Organiser, [IIITB Summer of Code](https://linktr.ee/iiitbsoc)
 - Member, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
+- Member, [Debate Society @ IIITB](https://www.iiitb.ac.in/committees-clubs/clubs/debate-club)
 
 ## Former Roles
 - Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
 - Organiser, [TEDxIIITBangalore](https://linktr.ee/tedxiiitbangalore2021)
 - Editor, [8BIT Magazine](https://8bit.pythonanywhere.com/)
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
+- Project Intern, [Web Science Lab, IIITB](https://github.com/WSL-IIITB)
 
 
 
