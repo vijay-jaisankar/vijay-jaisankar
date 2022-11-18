@@ -9,7 +9,6 @@ In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/),
 - Student Campus Ambassador, [Google](https://careers.google.com/students/)
 - Machine Learning Intern, [ISIP](https://iiitb.ac.in)
 - Mentor, [Major League Hacking](https://mlh.io/)
-- Organiser, [IIITB Summer of Code](https://linktr.ee/iiitbsoc)
 - Tech Lead, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
 
 ## Former Roles
@@ -19,6 +18,7 @@ In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/),
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
 - Project Intern, [Web Science Lab, IIITB](https://github.com/WSL-IIITB)
 - Member, [Debate Society @ IIITB](https://www.iiitb.ac.in/committees-clubs/clubs/debate-club)
+- Organiser, [IIITB Summer of Code](https://linktr.ee/iiitbsoc)
 
 
 
