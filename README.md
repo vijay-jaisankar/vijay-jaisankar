@@ -6,13 +6,14 @@ In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/),
 
 ## Current Roles  
 - Developer, [Zense](https://zense.co.in/)
-- Student Campus Ambassador, [Google](https://careers.google.com/students/)
 - Machine Learning Intern, [ISIP](https://iiitb.ac.in)
 - Mentor, [Major League Hacking](https://mlh.io/)
 - Tech Lead, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
+- Member, [Hack club Hackerabad](https://hackerabad.hackclub.com/)
 
 ## Former Roles
 - Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
+- Student Campus Ambassador, [Google](https://careers.google.com/students/)
 - Organiser, [TEDxIIITBangalore](https://linktr.ee/tedxiiitbangalore2021)
 - Editor, [8BIT Magazine](https://8bit.pythonanywhere.com/)
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
@@ -39,8 +40,8 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔭 I’m currently working on `PyTorch` and `DSP`
-- 🌱 I’m currently learning Computer Graphics, Audio Signal Processing, API Testing, Statistics, and Machine Learning.
+- 🔭 I’m currently working on `PyTorch` and `Video processing`
+- 🌱 I’m currently learning about Attention networks, DevOps, Librosa, and Few-shot learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects, APIs, Open Source, and Audio projects.
 - 📫 How to reach me: 
   - [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) 
