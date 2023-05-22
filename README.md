@@ -1,18 +1,19 @@
 ## Hi there 👋
 
-I'm Vijay Jaisankar, a CS student @IIITB. I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
+I'm Vijay Jaisankar, a CS student @[IIITB](https://iiitb.ac.in). I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
 
 In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
 
 ## Current Roles  
+- Intern, [Adobe Research](https://research.adobe.com/)
 - Developer, [Zense](https://zense.co.in/)
-- Machine Learning Intern, [ISIP](https://iiitb.ac.in)
 - Mentor, [Major League Hacking](https://mlh.io/)
 - Tech Lead, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
 - Member, [Hack club Hackerabad](https://hackerabad.hackclub.com/)
 
 ## Former Roles
 - Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
+- Machine Learning Intern, [ISIP](https://iiitb.ac.in)
 - Student Campus Ambassador, [Google](https://careers.google.com/students/)
 - Organiser, [TEDxIIITBangalore](https://linktr.ee/tedxiiitbangalore2021)
 - Editor, [8BIT Magazine](https://8bit.pythonanywhere.com/)
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) 
   - [Polywork](https://www.polywork.com/vijayjaisankar)
-  -  [Email](mailto:vijayjaisankar.vj@gmail.com)
+  - [Email](mailto:vijayjaisankar.vj@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: If I start, I can't stop talking 😄
 
