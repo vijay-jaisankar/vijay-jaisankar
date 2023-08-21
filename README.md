@@ -5,13 +5,11 @@ I'm Vijay Jaisankar, a CS student @[IIITB](https://iiitb.ac.in). I _love_ to lea
 In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
 
 ## Current Roles  
-- Intern, [Adobe Research](https://research.adobe.com/)
 - Developer, [Zense](https://zense.co.in/)
-- Mentor, [Major League Hacking](https://mlh.io/)
-- Tech Lead, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
 - Member, [Hack club Hackerabad](https://hackerabad.hackclub.com/)
 
 ## Former Roles
+- Intern, [Adobe Research](https://research.adobe.com/)
 - Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
 - Machine Learning Intern, [ISIP](https://iiitb.ac.in)
 - Student Campus Ambassador, [Google](https://careers.google.com/students/)
@@ -21,6 +19,8 @@ In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/),
 - Project Intern, [Web Science Lab, IIITB](https://github.com/WSL-IIITB)
 - Member, [Debate Society @ IIITB](https://www.iiitb.ac.in/committees-clubs/clubs/debate-club)
 - Organiser, [IIITB Summer of Code](https://linktr.ee/iiitbsoc)
+- Tech Lead, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
+- Mentor, [Major League Hacking](https://mlh.io/)
 
 
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔭 I’m currently working on `PyTorch` and `Video processing`
+- 🔭 I’m currently working on `PyTorch` and `Audio processing`
 - 🌱 I’m currently learning about Attention networks, DevOps, Librosa, and Few-shot learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects, APIs, Open Source, and Audio projects.
 - 📫 How to reach me: 
