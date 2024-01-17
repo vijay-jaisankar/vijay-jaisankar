@@ -5,8 +5,8 @@ I'm Vijay Jaisankar, a CS student @[IIITB](https://iiitb.ac.in). I _love_ to lea
 In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
 
 ## Current Roles  
+- Intern, [Schneider Electric AI Hub](https://www.se.com/in/en/about-us/artificial-intelligence/hub.jsp)
 - Developer, [Zense](https://zense.co.in/)
-- Member, [Hack club Hackerabad](https://hackerabad.hackclub.com/)
 
 ## Former Roles
 - Intern, [Adobe Research](https://research.adobe.com/)
@@ -21,6 +21,7 @@ In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/),
 - Organiser, [IIITB Summer of Code](https://linktr.ee/iiitbsoc)
 - Tech Lead, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
 - Mentor, [Major League Hacking](https://mlh.io/)
+- Member, [Hack club Hackerabad](https://hackerabad.hackclub.com/)
 
 
 
