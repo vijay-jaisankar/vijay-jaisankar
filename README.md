@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## About me
 
 - 🔭 I’m currently working on `PyTorch` and `Audio processing`
-- 🌱 I’m currently learning about Attention networks, DevOps, Librosa, and Few-shot learning.
+- 🌱 I’m currently learning about Attention networks, Computayional Creativity, and Few-shot learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects, APIs, Open Source, and Audio projects.
 - 📫 How to reach me: 
   - [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) 
