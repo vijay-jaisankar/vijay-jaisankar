@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vijay Jaisankar, a Data Scientist at [Schneider Electric AI Hub](https://www.se.com/in/en/work/solutions/artificial-intelligence/hub.jsp). I am an alumnus of @[IIIT Bangalore](https://iiitb.ac.in).  
+I'm Vijay Jaisankar, a Data Scientist at [Schneider Electric AI Hub](https://www.se.com/in/en/work/solutions/artificial-intelligence/hub.jsp). I am an alumnus of [IIIT Bangalore](https://iiitb.ac.in).  
 I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
 
 In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
