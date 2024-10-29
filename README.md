@@ -1,18 +1,20 @@
 ## Hi there 👋
 
-I'm Vijay Jaisankar, a CS student @[IIITB](https://iiitb.ac.in). I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
+I'm Vijay Jaisankar, a Data Scientist at [Schneider Electric AI Hub](https://www.se.com/in/en/work/solutions/artificial-intelligence/hub.jsp). I am an alumnus of @[IIIT Bangalore](https://iiitb.ac.in).  
+I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
 
 In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
 
 ## Current Roles  
-- Intern, [Schneider Electric AI Hub](https://www.se.com/in/en/about-us/artificial-intelligence/hub.jsp)
-- Developer, [Zense](https://zense.co.in/)
+- Data Scientist, [Schneider Electric AI Hub](https://www.se.com/in/en/about-us/artificial-intelligence/hub.jsp)
 
 ## Former Roles
+- Intern, [Schneider Electric AI Hub](https://www.se.com/in/en/about-us/artificial-intelligence/hub.jsp)
 - Intern, [Adobe Research](https://research.adobe.com/)
 - Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
 - Machine Learning Intern, [ISIP](https://iiitb.ac.in)
 - Student Campus Ambassador, [Google](https://careers.google.com/students/)
+- Developer, [Zense](https://zense.co.in/)
 - Organiser, [TEDxIIITBangalore](https://linktr.ee/tedxiiitbangalore2021)
 - Editor, [8BIT Magazine](https://8bit.pythonanywhere.com/)
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
